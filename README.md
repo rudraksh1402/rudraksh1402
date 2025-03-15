@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-rudraksh1402/rudraksh1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rudraksh1402/rudraksh1402 is a ✨ special ✨ repository because its `https://github.com/rudraksh1402/rudraksh1402/releases` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
